@@ -1,0 +1,13 @@
+Setting Default Parameters...
+Parsing Configfile /scratch/benchmarks/SPEC2006_ARM/h264ref/ref/input/sss_encoder_main.cfg.....................................................................................................
+
+------------------------------- JM 9.3 (FRExt) --------------------------------
+ Input YUV file                    : sss.yuv 
+ Output H.264 bitstream            : sss.264 
+ YUV Format                        : YUV 4:2:0 
+ Frames to be encoded I-P/B        : 86/85
+ PicInterlace / MbInterlace        : 0/0
+ Transform8x8Mode                  : 0
+-------------------------------------------------------------------------------
+  Frame  Bit/pic WP QP   SnrY    SnrU    SnrV    Time(ms) MET(ms) Frm/Fld   I D
+-------------------------------------------------------------------------------

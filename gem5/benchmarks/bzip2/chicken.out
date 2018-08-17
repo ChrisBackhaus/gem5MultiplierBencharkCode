@@ -1,0 +1,20 @@
+spec_init
+Loading Input Data
+Duplicating 396269 bytes
+Input data 1048576 bytes in length
+Compressing Input Data, level 5
+Compressed data 1043002 bytes in length
+Uncompressing Data
+Uncompressed data 1048576 bytes in length
+Uncompressed data compared correctly
+Compressing Input Data, level 7
+Compressed data 1022560 bytes in length
+Uncompressing Data
+Uncompressed data 1048576 bytes in length
+Uncompressed data compared correctly
+Compressing Input Data, level 9
+Compressed data 889322 bytes in length
+Uncompressing Data
+Uncompressed data 1048576 bytes in length
+Uncompressed data compared correctly
+Tested 1MB buffer: OK!
